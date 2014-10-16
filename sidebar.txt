@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cnt:home|Door43 (cnt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cnt|d43-cnt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cnt/archive/master.zip|d43-cnt.zip]]
+
+**Recent Changes**
+{{changes>ns = cnt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cnt|Ethnologue data]]
+
